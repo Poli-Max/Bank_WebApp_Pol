@@ -1,0 +1,64 @@
+﻿<Properties StartupConfiguration="{1C574E4D-28B2-4C34-85AF-9B9324D6278A}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Bank_220App_220Pol_220V1 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bank App Pol V1/Views/Home/Contacts.cshtml">
+    <Files>
+      <File FileName="Bank App Pol V1/Views/Balance/Card.cshtml" />
+      <File FileName="Bank App Pol V1/Views/Balance/Index.cshtml" />
+      <File FileName="Bank App Pol V1/Controllers/BalanceController.cs" />
+      <File FileName="Bank App Pol V1/Models/User_Bank.cs" />
+      <File FileName="Bank App Pol V1/Program.cs" />
+      <File FileName="Bank App Pol V1/Models/ApplicationContext.cs" />
+      <File FileName="Bank App Pol V1/appsettings.json" Line="3" Column="96" />
+      <File FileName="Bank App Pol V1/Views/Replenishment/Index.cshtml" />
+      <File FileName="Bank App Pol V1/Models/ErrorViewModel.cs" />
+      <File FileName="Bank App Pol V1/Controllers/TransactionController.cs" />
+      <File FileName="Bank App Pol V1/Controllers/ReplenishmentController.cs" />
+      <File FileName="Bank App Pol V1/Views/Shared/_Layout.cshtml" />
+      <File FileName="Bank App Pol V1/Controllers/HomeController.cs" />
+      <File FileName="Bank App Pol V1/Views/Home/Index.cshtml" />
+      <File FileName="Bank App Pol V1/Properties/launchSettings.json" />
+      <File FileName="Bank App Pol V1/Views/Home/Contacts.cshtml" Line="11" Column="1" />
+      <File FileName="Bank App Pol V1/Views/Transaction/Index.cshtml" />
+      <File FileName="Bank App Pol V1/appsettings.Development.json" Line="3" Column="96" />
+      <File FileName="Bank App Pol V1/Views/Replenishment/Card.cshtml" />
+      <File FileName="Bank App Pol V1/Models/Dop.cs" />
+      <File FileName="Bank App Pol V1/Views/Shared/Error.cshtml" />
+      <File FileName="Bank App Pol V1/Views/Shared/_ValidationScriptsPartial.cshtml" />
+      <File FileName="Bank App Pol V1/Models/Mod.cs" />
+      <File FileName="Bank App Pol V1/Views/Replenishment/CardSuccess.cshtml" />
+      <File FileName="Bank App Pol V1/Views/Balance/CardSuccess.cshtml" />
+      <File FileName="Bank App Pol V1/Controllers/WithdrawalsController.cs" />
+      <File FileName="Bank App Pol V1/Views/Withdrawals/Index.cshtml" />
+      <File FileName="Bank App Pol V1/Views/Withdrawals/Card.cshtml" />
+      <File FileName="Bank App Pol V1/Views/Withdrawals/CardSuccess.cshtml" />
+      <File FileName="Bank App Pol V1/Models/ModTrans.cs" />
+      <File FileName="Bank App Pol V1/Views/Transaction/UserNotFound.cshtml" />
+      <File FileName="Bank App Pol V1/Views/Transaction/Card.cshtml" />
+      <File FileName="Bank App Pol V1/Views/Transaction/CardSuccess.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bank App Pol V1" expanded="True">
+            <Node name="Bank App Pol V1" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Balance" expanded="True" />
+                <Node name="Home" expanded="True">
+                  <Node name="Contacts.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

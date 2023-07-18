@@ -1,0 +1,12 @@
+﻿@model Mod
+
+@{
+    ViewData["Title"] = "Пополнение";
+}
+
+<div class="text-left">
+    <h1 class="display-4">Пополнение успешно выполнено!</h1>
+    <p>Счет пользователя пополнен</p>
+    <p>Текущий баланс: @Model.User.Balance @Model.User.Currency</p>
+</div>
+

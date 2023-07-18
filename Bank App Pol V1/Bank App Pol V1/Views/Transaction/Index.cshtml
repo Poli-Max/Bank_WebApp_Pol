@@ -1,0 +1,24 @@
+﻿@model ModTrans
+@{
+    ViewData["Title"] = "Перевод денег";
+}
+
+<div class="text-left">
+    <h1 class="display-10">Перевод денег</h1>
+</div>
+
+<form method="post" asp-controller="Transaction" asp-action="Card">
+    <label asp-for="User.ID">ID отправителя:</label>
+    <input asp-for="User.ID" />
+    <span asp-validation-for="User.ID"></span>
+
+    <label asp-for="User2.ID">ID получателя:</label>
+    <input asp-for="User2.ID" />
+    <span asp-validation-for="User2.ID"></span>
+
+    <label asp-for="Dop.Amount">Сумма:</label>
+    <input asp-for="Dop.Amount" />
+    <span asp-validation-for="Dop.Amount"></span>
+
+    <input type="submit" value="Перевести" />
+</form>

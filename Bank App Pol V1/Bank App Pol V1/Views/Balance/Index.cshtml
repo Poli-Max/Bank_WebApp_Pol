@@ -1,0 +1,16 @@
+﻿@model User_Bank
+@{
+    ViewData["Title"] = "Баланс";
+}
+
+<div class="text-left">
+    <h1 class="display-10">Проверка баланса</h1>
+</div>
+
+<form method="post" asp-controller="Balance" asp-action="Card">
+    <label asp-for="ID"></label>
+    <input asp-for="ID" />
+    <span asp-validation-for="ID"></span>
+
+    <button type="submit" class="btn btn-primary">Применить</button>
+</form>

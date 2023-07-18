@@ -1,0 +1,21 @@
+﻿@model Mod
+
+@{
+    ViewData["Title"] = "Снятие";
+}
+
+<div class="text-left">
+    <h1 class="display-10">Снятие средств</h1>
+</div>
+<form method="post" asp-controller="Withdrawals" asp-action="Card">
+    <label asp-for="User.ID"></label>
+    <input asp-for="User.ID" />
+    <span asp-validation-for="User.ID"></span>
+
+    <label asp-for="Dop.Amount"></label>
+    <input asp-for="Dop.Amount" />
+    <span asp-validation-for="Dop.Amount"></span>
+
+
+    <input type="submit" value="Снять" />
+</form>

@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Bank_App_Pol_V1
+build_property.RootNamespace = Bank_App_Pol_V1
+build_property.ProjectDir = /Users/maksimpoletaev/Projects/Bank App Pol V1/Bank App Pol V1/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/maksimpoletaev/Projects/Bank App Pol V1/Bank App Pol V1
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/maksimpoletaev/Projects/Bank App Pol V1/Bank App Pol V1/Views/Balance/Card.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmFsYW5jZS9DYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/maksimpoletaev/Projects/Bank App Pol V1/Bank App Pol V1/Views/Balance/CardSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmFsYW5jZS9DYXJkU3VjY2Vzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/maksimpoletaev/Projects/Bank App Pol V1/Bank App Pol V1/Views/Balance/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmFsYW5jZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/maksimpoletaev/Projects/Bank App Pol V1/Bank App Pol V1/Views/Home/Contacts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db250YWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/maksimpoletaev/Projects/Bank App Pol V1/Bank App Pol V1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/maksimpoletaev/Projects/Bank App Pol V1/Bank App Pol V1/Views/Replenishment/Card.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVwbGVuaXNobWVudC9DYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/maksimpoletaev/Projects/Bank App Pol V1/Bank App Pol V1/Views/Replenishment/CardSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVwbGVuaXNobWVudC9DYXJkU3VjY2Vzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/maksimpoletaev/Projects/Bank App Pol V1/Bank App Pol V1/Views/Replenishment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVwbGVuaXNobWVudC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/maksimpoletaev/Projects/Bank App Pol V1/Bank App Pol V1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/maksimpoletaev/Projects/Bank App Pol V1/Bank App Pol V1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/maksimpoletaev/Projects/Bank App Pol V1/Bank App Pol V1/Views/Transaction/Card.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhbnNhY3Rpb24vQ2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/maksimpoletaev/Projects/Bank App Pol V1/Bank App Pol V1/Views/Transaction/CardSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhbnNhY3Rpb24vQ2FyZFN1Y2Nlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/maksimpoletaev/Projects/Bank App Pol V1/Bank App Pol V1/Views/Transaction/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhbnNhY3Rpb24vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/maksimpoletaev/Projects/Bank App Pol V1/Bank App Pol V1/Views/Transaction/UserNotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhbnNhY3Rpb24vVXNlck5vdEZvdW5kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/maksimpoletaev/Projects/Bank App Pol V1/Bank App Pol V1/Views/Withdrawals/Card.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2l0aGRyYXdhbHMvQ2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/maksimpoletaev/Projects/Bank App Pol V1/Bank App Pol V1/Views/Withdrawals/CardSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2l0aGRyYXdhbHMvQ2FyZFN1Y2Nlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/maksimpoletaev/Projects/Bank App Pol V1/Bank App Pol V1/Views/Withdrawals/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2l0aGRyYXdhbHMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/maksimpoletaev/Projects/Bank App Pol V1/Bank App Pol V1/Views/Withdrawals/UserNotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2l0aGRyYXdhbHMvVXNlck5vdEZvdW5kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/maksimpoletaev/Projects/Bank App Pol V1/Bank App Pol V1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/maksimpoletaev/Projects/Bank App Pol V1/Bank App Pol V1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/maksimpoletaev/Projects/Bank App Pol V1/Bank App Pol V1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-dqmclvdyi0
